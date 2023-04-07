@@ -92,7 +92,7 @@ a:hover{
 .bottom-cloud {
     position: absolute;
     left: 300px;
-    top:200px;
+    bottom: 50%;
 }
 .skill1{
     background-color: rgb(28, 185, 238);
